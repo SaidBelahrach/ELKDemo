@@ -1,0 +1,6 @@
+@ELKDemo.ExempleApi1_HostAddress = http://localhost:5241
+
+GET {{ELKDemo.ExempleApi1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELKDemo.ExempleApi1", "ELKDemo.ExempleApi1\ELKDemo.ExempleApi1.csproj", "{1C32C105-6914-4A3E-A311-B7261C422BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELKDemo.ExempleApi2", "ELKDemo.ExempleApi2\ELKDemo.ExempleApi2.csproj", "{B9C33BF5-CE3F-408C-8758-8F290CE57567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C32C105-6914-4A3E-A311-B7261C422BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C32C105-6914-4A3E-A311-B7261C422BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C32C105-6914-4A3E-A311-B7261C422BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C32C105-6914-4A3E-A311-B7261C422BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C33BF5-CE3F-408C-8758-8F290CE57567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C33BF5-CE3F-408C-8758-8F290CE57567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C33BF5-CE3F-408C-8758-8F290CE57567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C33BF5-CE3F-408C-8758-8F290CE57567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
